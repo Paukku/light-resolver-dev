@@ -1,0 +1,98 @@
+{
+  "leftOuterWall": {},
+  "rightOuterWall": {},
+  "sections": [
+    {
+      "width": 90,
+      "shelves": [
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": true
+        }
+      ]
+    },
+    {
+      "width": 90,
+      "shelves": [
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": true
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": true
+        }
+      ]
+    },
+    {
+      "width": 90,
+      "shelves": [
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": true
+        },
+        {
+          "hasLight": true
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": true
+        }
+      ]
+    },
+    {
+      "width": 90,
+      "shelves": [
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": true
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": false
+        },
+        {
+          "hasLight": true
+        },
+        {
+          "hasLight": true
+        }
+      ]
+    }
+  ]
+}
